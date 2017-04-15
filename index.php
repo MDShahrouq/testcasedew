@@ -11,6 +11,7 @@ Donate to remove backlink form the site
 <!--<![endif]-->
 <head>
 <meta charset="utf-8">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon (1).ico">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!--[if lt IE 9]> 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
